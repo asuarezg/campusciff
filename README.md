@@ -107,3 +107,22 @@ __11.Crear nuevo tag v0.2 y borrar rama v0.2__
    git push origin master
 ```
 ## Ejercicios GitHub
+
+* Poner una foto en vuestro perfil de GitHub. :+1:
+* Poner el doble factor de autentificación en vuestra cuenta de GitHub. :+1:
+* Añadir (si no lo habéis hecho ya) la clave pública que se corresponde a tu ordenador. :+1:
+* Preguntar los nombres de usuario de GitHub de tus compañeros de clase, búscalos, y sigueles.  :+1:
+* Seguir los repositorios campusciff del resto de tus compañeros.  :+1:
+* Añadir una estrella a los repositorios campusciff del resto de tus compañeros.  :+1:
+* Compañeros de clase:
+
+  |        NOMBRE          |             GITHUB                                       |
+  | ---------------------- | -------------------------------------------------------  |
+  | Pimateos               | https://github.com/Pimateos/campusciff.git               |
+  | diegomartincastellanos | https://github.com/diegomartincastellanos/campusciff.git |
+  | irenesaiz              | https://github.com/irenesaiz/campusciff.git              |
+  | Julián Gómez           | https://github.com/CIFFjuliangomez/campusciff.git        |
+ 
+  
+  
+
