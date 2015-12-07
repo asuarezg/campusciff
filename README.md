@@ -18,7 +18,7 @@ __3. Crear en local documento README__
    git pull origin master
 ```
 
-__4.Modificar README y hacer commit inicial__
+__4.Modificar README y hacer Commit Inicial__
 ```
    git add .
    git commit -m "Commit Inicial"
