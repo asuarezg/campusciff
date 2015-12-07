@@ -1,6 +1,7 @@
-# Ejercicios Git
+# Ejercicios 
+## Ejercicios Git
 
-__1. Crear repositorio campusciff__
+__1. Crear repositorio campusciff__:
 
 __2. Clonar repositorio en local__
 
@@ -93,9 +94,15 @@ __10.Hacer merge provocando conflicto__
 __11.Crear nuevo tag v0.2 y borrar rama v0.2__
 ```
    git tag v0.2
-   git branch -d v0.2
-   git add .
-   git commit -m "subimos cambios en readme"     
+   git branch -d v0.2  
    git push origin master
+# El borrado de la rama no se refleja en el repositorio remoto
+# Vemos el  listado de commits y ramas
+   git log --oneline --decorate --graph --all
+# O con el alias creado
+   git list
+# Subimos cambios en readme
+   git add .
+   git commit -m "subimos cambios en readme"   
 ```
-	 
+## Ejercicios GitHub
