@@ -123,6 +123,11 @@ __11.Crear nuevo tag v0.2 y borrar rama v0.2__
   | irenesaiz              | https://github.com/irenesaiz/campusciff.git              |
   | Julián Gómez           | https://github.com/CIFFjuliangomez/campusciff.git        |
  
-  
-  
-
+ * Añadir como colaborador a asanzdiego. :+1:
+ * Crear organización. :+1:
+ * Crear 2 equipos y meter compañeros. :+1:
+ * Crear un index.html que se pueda ver como página web en la organización. :-1:
+ * Hacer 2 forks de 2 repositorios, Crearos una rama en cada fork. :+1:
+ * En cada rama modificar el fichero index.html añadiendo vuestro nombre. :+1:
+ * Con cada rama hacer un pull-request. :+1:
+ * Esperando pull request
