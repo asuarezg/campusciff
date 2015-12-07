@@ -88,4 +88,14 @@ __10.Hacer merge provocando conflicto__
    VI 1.txt
    git add .
    git commit -m "resuelto conflicto en fichero 1.txt"  
+   git push origin master
 ```
+__11.Crear nuevo tag v0.2 y borrar rama v0.2__
+```
+   git tag v0.2
+   git branch -d v0.2
+   git add .
+   git commit -m "subimos cambios en readme"     
+   git push origin master
+```
+	 
