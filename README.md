@@ -104,5 +104,6 @@ __11.Crear nuevo tag v0.2 y borrar rama v0.2__
 # Subimos cambios en readme
    git add .
    git commit -m "subimos cambios en readme"   
+   git push origin master
 ```
 ## Ejercicios GitHub
